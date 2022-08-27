@@ -1,2 +1,2 @@
-# Toy_Unity_AmazingBalling
+# AmazingBalling
 Little "ball"ing game. Control the ball using mouse click. Move the ball to EndPoint.
